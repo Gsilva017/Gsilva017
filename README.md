@@ -1,5 +1,14 @@
 ## Hello World, I'm Gustavo Silva
 
+👨‍💻 **Self-taught developer constantly learning and improving**  
+🐍 Python • HTML • CSS • JavaScript  
+🎮 Interested in Game Development & Technology  
+🛠️ Building projects to learn through practice  
+🚀 Always learning something new  
+🇧🇷 Brazil
+
+🤖Tecnologies
+---
 <p>
   <img 
     align="left" 
@@ -9,14 +18,8 @@
     src="https://github-readme-stats.vercel.app/api?username=Gsilva017&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsilva017&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsilva017)](https://github.com/anuraghazra/github-readme-stats)   
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Gsilva017&layout=compact&langs_count=12&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=Gsilva017&layout=compact&langs_count=12&theme=tokyonight)
 
 
 </p>
