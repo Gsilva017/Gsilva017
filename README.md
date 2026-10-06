@@ -16,6 +16,9 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gsilva017&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsilva017)](https://github.com/anuraghazra/github-readme-stats)   
+
+
 </p>
 
 <div style="display: inline_block"><br>
