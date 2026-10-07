@@ -19,7 +19,7 @@
   />
 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Gsilva017&layout=compact&langs_count=12&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=Gsilva017&layout=compact&langs_count=12&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Gsilva017&layout=compact&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=Gsilva017&layout=compact&theme=tokyonight)
 
 
 </p>
